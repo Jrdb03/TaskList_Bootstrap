@@ -34,4 +34,4 @@ Los elementos gráficos en formato **SVG**, específicamente los `path`, fueron 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Jrdb03/TaskList_Bootstrap.git
+https://github.com/Jrdb03/TaskList_Bootstrap.git
